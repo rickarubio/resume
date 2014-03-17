@@ -30,10 +30,6 @@ section li {
   display: inline;
 }
 
-.work-experience .date {
-  margin: 0px 40px;
-}
-
 .work-experience li {
   list-style-type: circle;
 }
