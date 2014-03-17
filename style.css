@@ -45,6 +45,6 @@ section li {
   font-style: italic;
 }
 
-.certifications li {
+.certifications li, .skills li {
   list-style-type: circle;
 }
