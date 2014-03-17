@@ -24,14 +24,14 @@ section li {
   padding-right: 4px;
 }
 
-.work-experience {
+.work-experience, .volunteer-experience {
   margin: 2px;
 }
 .employer-name {
   display: inline;
 }
 
-.work-experience li {
+.work-experience li, .volunteer-experience li {
   list-style-type: circle;
 }
 
