@@ -6,7 +6,7 @@ header {
   margin-bottom: 0px;
 }
 
-section div {
+.section-name {
   border-top: 2px solid silver;
   border-bottom: 2px solid silver;
   padding: 1px;
@@ -16,8 +16,30 @@ section div {
 section h2 {
   text-align: left;
   margin: 2px;
+  font-size: 20px;
 }
 
 section li {
   list-style-type: none;
+}
+
+.work-experience {
+  margin: 2px;
+}
+.employer-name {
+  display: inline;
+}
+
+.work-experience .date {
+  margin: 0px 40px;
+}
+
+.work-experience li {
+  list-style-type: circle;
+}
+
+.job-title {
+  margin: 0px;
+  font-size: 16px;
+  font-style: italic;
 }
