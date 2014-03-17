@@ -6,13 +6,18 @@ header {
   margin-bottom: 0px;
 }
 
-section {
+section div {
   border-top: 2px solid silver;
   border-bottom: 2px solid silver;
-  padding: 4px;
+  padding: 1px;
   margin: 8px;
 }
 
 section h2 {
   text-align: left;
+  margin: 2px;
+}
+
+section li {
+  list-style-type: none;
 }
