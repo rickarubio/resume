@@ -21,6 +21,7 @@ section h2 {
 
 section li {
   list-style-type: none;
+  padding-right: 4px;
 }
 
 .work-experience {
@@ -38,4 +39,8 @@ section li {
   margin: 0px;
   font-size: 16px;
   font-style: italic;
+}
+
+.certifications li {
+  list-style-type: circle;
 }
