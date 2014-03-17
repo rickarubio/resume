@@ -6,7 +6,17 @@ header {
   text-align: center;
 }
 
+ul {
+  margin: 0px;
+}
+
+.skills li {
+  list-style-type: none;
+  display: inline;
+}
+
 #name {
+  margin-top: 0px;
   margin-bottom: 0px;
 }
 
