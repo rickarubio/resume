@@ -19,6 +19,11 @@ em {
   display: inline;
 }
 
+div.skills {
+  display: inline-block;
+  width: 200px;
+}
+
 #name {
   margin-top: 0px;
   margin-bottom: 0px;
