@@ -2,6 +2,11 @@ body {
   background-image: url('nice_snow.png');
 }
 
+#phone-number, #email {
+  direction: rtl;
+  unicode-bidi: bidi-override;
+} 
+
 header {
   text-align: center;
 }
@@ -47,14 +52,14 @@ section li {
   padding-right: 4px;
 }
 
-.work-experience, .volunteer-experience {
+.work-experience, .volunteer-experience, .education-experience {
   margin: 2px;
 }
 .employer-name {
   display: inline;
 }
 
-.work-experience li, .volunteer-experience li {
+.work-experience li, .volunteer-experience li, .education-experience li {
   list-style-type: circle;
 }
 
