@@ -1,5 +1,7 @@
 body {
   background-image: url('nice_snow.png');
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 400;
 }
 
 #phone-number, #email {
@@ -32,6 +34,7 @@ div.skills {
 #name {
   margin-top: 0px;
   margin-bottom: 0px;
+  font-size: 24px;
 }
 
 .section-name {
@@ -44,7 +47,7 @@ div.skills {
 section h2 {
   text-align: left;
   margin: 2px;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 section li {
@@ -57,6 +60,7 @@ section li {
 }
 .employer-name {
   display: inline;
+  font-size: 16px;
 }
 
 .work-experience li, .volunteer-experience li, .education-experience li {
